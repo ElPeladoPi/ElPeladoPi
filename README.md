@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/elpeladopi"><img src="https://api.daily.dev/devcards/v2/mOVvdlqlijS5fLXanh8Xu.png?r=zbh" width="356" alt="Andres's Dev Card"/></a>
+<a href="https://app.daily.dev/elpeladopi"><img src="https://api.daily.dev/devcards/v2/mOVvdlqlijS5fLXanh8Xu.png?type=default&r=2t7" width="356" alt="Andres's Dev Card"/></a>
